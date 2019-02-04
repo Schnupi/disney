@@ -11,10 +11,13 @@
 
 video{
     position:absolute;
-    top : 30%;
-    left : 32%;
+    width : 50%;
+    height: 50%;
+    top: 30%;
+    left : 25%;
     z-index: 1000;
-    background-color: black;
+    background-color: rgb(0, 0, 0,0.3);
+    
 }
 
 canvas {
